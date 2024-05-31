@@ -1,0 +1,1 @@
+This is the third assignment I have been entrusted with during my cybersecurity internship at Prodigy InfoTech. The task involves developing a straightforward Python script to assess the complexity and strength of a given password.
